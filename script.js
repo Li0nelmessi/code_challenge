@@ -39,7 +39,7 @@ finalOutput = 'finalGrade'
 
 
 
-finalOutput='finalGrade'
+finalOutput='studentsMarks'
 document.getElementById('marks-id').append(finalOutput)
 
 })
@@ -76,7 +76,7 @@ if (inputSpeed < 70) { //if speed is less than 70 then output'ok'
 
 
 
-finalOutput='OutputSpeed'
+finalOutput='License Suspended'
     document.getElementById('speed-id').append(finalOutput)
 
 })
